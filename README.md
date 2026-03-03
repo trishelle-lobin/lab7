@@ -4,5 +4,12 @@ A FastAPI template for info2602 students based on the [fullstack fastapi templat
 
 ## Service repository pattern
 
+### This is a heading level 3
+
+- this is a bullet point
+
+```python
+print("Hello")
+```
 
 
